@@ -1,0 +1,52 @@
+
+body{
+    margin: 0;
+    background-color: orchid;
+}
+.navbar{
+    background-color: deeppink;
+    display: flex;
+    justify-content: space-around;
+}
+.navbar ul{
+    list-style-type: none;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: seashell;
+    padding: 30px
+}
+.navbar ul li a:hover{
+    color: orangered
+}
+.navbar li{
+    display: inline-block;
+}
+.navbar #navlogo{
+    width: 500px;
+    padding: 5px
+}
+.registration{
+    background-color: rgb(31, 211, 211);
+}
+#mainheading{
+    color: rebeccapurple;
+}
+#headingone{
+    color: rgb(39, 133, 46);
+}
+#impnotice{
+    color: rgb(189, 57, 145);
+}
+#courseheading{
+   color: blueviolet;
+}
+.coursetable{
+    background: cadetblue;
+}
+#lastheading{
+    color: crimson;
+}
+.contactus{
+    background-color: rgb(185, 228, 185) ;
+}
